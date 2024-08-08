@@ -1,5 +1,5 @@
 export const eventId = 1;
-export const eventName = "Event Name";
+export const eventName = "Code in the dark Variant edition";
 export const reference_image = "/page.png";
 export const instructions = `
 --- The rules ---
@@ -12,13 +12,11 @@ export const instructions = `
 Good luck and most important of all; have fun!
 
 --- Assets ---
-/DFDS-logo-positive.png (2747×949) - DFDS logo
-/unroro-map.jpg (483×300) - map
-/col1-image.jpg (232×152) - column 1 image
-/col2-image.jpg (232×152) - column 2 image
-/col3-image.jpg (232×152) - column 3 image
-Font: 'DFDS' is loaded
-Light blue color: #58b9fe;
+/bt-logo.png (not in correct size)- bt logo
+/sparkesykkel.png (not in correct size)- column 1 image
+/pastasentralen.png (not in correct size)- column 2 image
+/brannspiller.png (not in correct size)- column 3 image
+Light blue color: #EBF2FE;
 `;
 
 export const injectCode = `<link rel="stylesheet"  href="https://unpkg.com/@dfds-frontend/fonts@0.0.4/main/font.css"  />`
